@@ -1,0 +1,30 @@
+.navigation {
+  background-color: #f9fafb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 10px;
+  font-weight: 600;
+  font-size: 24px;
+  max-width: 320px;
+  margin: 0 auto;
+}
+
+.navigationList {
+  display: none;
+  gap: 30px;
+}
+
+.logo {
+  color: #ff5c00;
+  display: flex;
+  align-items: center;
+}
+
+.logoIcon {
+  display: none;
+}
+
+.settingIcon {
+  display: none;
+}

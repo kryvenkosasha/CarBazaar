@@ -1,0 +1,27 @@
+.SearchingInputContainer {
+  max-width: 320px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.searchingForm {
+  display: flex;
+  gap: 5px;
+}
+
+.SearchingInput {
+  width: 200px;
+  height: 55px;
+  background-color: #edeeef;
+  border: none;
+  border-radius: 10px;
+}
+
+.searchingButton {
+  background-color: #ff5c00;
+  border: none;
+  padding: 18px;
+  border-radius: 10px;
+  color: #edeeef;
+  font-weight: 400;
+}
